@@ -6,8 +6,11 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Thenu+MD+WHATSAPP+BOT" alt="">
 </p>
+   
 # Thenu-MD
-🧑‍💻 Easy , Helpful , Amazing Wahtsapp Auto Reply Bot..❤
-<p align="center">
+**What is a Thenu-MD?**
+*Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti❤️💀*
+
+   <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Owner+THENULA+PANAPITI" alt="">
 </p>
