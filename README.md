@@ -11,7 +11,7 @@
 **What is a Thenu-MD?**
 *Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti❤️💀*
 
-   <p align="center">
+   <p align="left">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Owner+THENULA+PANAPITI" alt="">
 </p>
 
@@ -21,7 +21,7 @@
 </p>
    
  
-<p aling="center">
+<p aling="left">
  │   ───────
 *│►* .device
 *│►* .tempmail
