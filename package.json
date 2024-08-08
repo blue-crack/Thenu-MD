@@ -4,9 +4,9 @@
   "description": "A Thenu-MD WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Thenu-MD",
+    "stop": "pm2 stop Thenu-MD",
+    "restart": "pm2 restart Thenu-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
