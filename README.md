@@ -21,16 +21,189 @@
 </p>
    
  
-|---|---|
-| .gpt | URL for connecting to your mongodb database | 
-| DALLE | your session id | 
-| TTS | API key for www.remove.bg | 
-| PREFIX | put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix |
-| NFWS | mode public or private |
-|  | make it true if you want bot to read messages |
-| statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
-| BOTNAME | Your Bot Name | 
-| antidelete | bot will forward deleted messages if you make it true | 
 
-
+╰──────────●●►
+**THENU MD**──────────●●►
+*│📜 MAIN COMMANDS*
+│   ───────
+*│►* .device
+*│►* .tempmail
+*│►* .newgroup
+*│►* .delgroup
+*│►* .save
+*│►* .block
+*│►* .unblock
+*│►* .help
+*│►* .id
+*│►* .settings
+*│►* .apply
+*│►* .defaultimg
+*│►* .defaultsudo
+*│►* .news
+*│►* .logo
+*│►* .script
+*│►* .alive
+*│►* .jid
+*│►* .system
+*│►* .restart
+*│►* .join
+*│►* .ping
+*│►* .list
+*│►* .menu
+*│►* .bingen
+*│►* .dictionary
+*│►* .readmore
+*│►* .requestpair
+╰───────────●●►
+╭───────────●●►
+*│⬇️ DOWNLOAD COMMANDS*
+│   ───────
+*│►* .downurl
+*│►* .gitclone
+*│►* .tiktok
+*│►* .fb
+*│►* .ig
+*│►* .apk
+*│►* .fmmod
+*│►* .gdrive
+*│►* .mediafire
+*│►* .ss
+*│►* .video
+*│►* .song
+*│►* .spotify
+*│►* .img
+*│►* .movie
+*│►* .soundcloud
+*│►* .download
+*│►* .threads
+*│►* .twitter
+*│►* .pinterest
+*│►* .sisub
+*│►* .fb2
+*│►* .capcut
+*│►* .xvdl
+╰───────────●●►
+╭───────────●●►
+*│🔱 GROUP COMMANDS*
+│   ───────
+*│►* .ban
+*│►* .unban
+*│►* .invite
+*│►* .mute
+*│►* .unmute
+*│►* .promote
+*│►* .demote
+*│►* .kick
+*│►* .hidetag
+*│►* .add
+*│►* .gdesc
+*│►* .gname
+*│►* .left
+*│►* .antispam
+*│►* .del
+*│►* .gdp
+*│►* .automute
+*│►* .autounmute
+╰───────────●●►
+╭───────────●●►
+*│👨‍💻 OWNER COMMANDS*
+│   ───────
+*│►* .removesticker
+*│►* .resetsticker
+*│►* .getsticker
+*│►* .addsticker
+*│►* .addbad
+*│►* .resetbad
+*│►* .getbad
+*│►* .resetvoice
+*│►* .removevoice
+*│►* .getvoice
+*│►* .addvoice
+*│►* .replacereply
+*│►* .removereply
+*│►* .getreply
+*│►* .resetreply
+*│►* .addreply
+*│►* .eval
+*│►* .repostatus
+*│►* .report
+*│►* .quote
+*│►* .alljid
+*│►* .about
+*│►* .name
+*│►* .dp
+*│►* .sendaudio
+*│►* .sendtag
+*│►* .sendmsg
+*│►* .remove
+*│►* .enc
+*│►* .dec
+*│►* .boom
+*│►* .vv
+*│►* .tovv
+*│►* .send
+*│►* .update
+╰───────────●●►
+╭───────────●●►
+*│🔗 CONVERT COMMANDS*
+│   ───────
+*│►* .mp3tourl
+*│►* .surl
+*│►* .tts
+*│►* .wame
+*│►* .img2url
+*│►* .fancy
+*│►* .trt
+*│►* .toimg
+*│►* .pdf
+*│►* .edit
+*│►* .dark
+*│►* .emoji
+*│►* .blur
+*│►* .toaudio
+*│►* .toptt
+*│►* .remini
+*│►* .img2qr
+*│►* .removebg
+*│►* .toqr
+*│►* .emomix
+╰───────────●●►
+╭───────────●●►
+*│🤖 AI COMMANDS*
+│   ───────
+*│►* .gemini
+*│►* .gpt
+            .dalle
+╰───────────●●►
+╭───────────●●►
+*│🫧 MATH COMMANDS*
+│   ───────
+*│►* .mathstep
+*│►* .math
+*│►* .cal
+╰───────────●●►
+╭───────────●●►
+*│🔍SEARCH COMMANDS*
+│   ───────
+*│►* .findtiktok
+*│►* .findapk
+*│►* .ip
+*│►* .cric
+*│►* .find
+*│►* .yts
+*│►* .npm
+*│►* .wabeta
+*│►* .movieinfo
+*│►* .weather
+*│►* .lyrics
+*│►* .cmd
+*│►* .git
+*│►* .pixabay
+*│►* .unsplash
+*│►* .sporty
+*│►* .mobilenews
+╰───────────●●►
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=NEW+VERSION+V2" alt="">
+</p>
+   
