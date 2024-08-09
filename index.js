@@ -71,7 +71,7 @@ console.log('Thenu-MD Bot connected to whatsapp ✅')
 
 let up = `Thenu-MD-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/e1805cc111530fe514728.jpg` }, caption: up })
 
 }
 })
