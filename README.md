@@ -12,13 +12,11 @@
   </p>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
-# Thenu-MD
-**What is a Thenu-MD?**
-*Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti❤️💀*
-
-   <p align="left">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Owner+THENULA+PANAPITI" alt="">
-</p>
+# Thenu-MD ❤️
+<p align="left">Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti..💀</p>
+<p align="left">It is simple whatsapp WA bot..🤗</p>
+<p align="left">This bot made using Baileys..❤️</p>
+<p align="left">
 
 ### Commands Description 
 <p align="centercentert">
@@ -30,8 +28,4 @@
 <p aling="left">
 
 
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=©Coming+Soon" alt="">
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
+
