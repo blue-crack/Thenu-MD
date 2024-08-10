@@ -16,7 +16,15 @@
 <p align="left">Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti..💀</p>
 <p align="left">It is simple whatsapp WA bot..🤗</p>
 <p align="left">This bot made using Baileys..❤️</p>
-<p align="left">
+
+### Special Thankss
+
+   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+
+---
+
+|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+
 
 ### Commands Description 
 <p align="centercentert">
