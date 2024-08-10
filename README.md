@@ -17,13 +17,12 @@
 <p align="left">It is simple whatsapp WA bot..🤗</p>
 <p align="left">This bot made using Baileys..❤️</p>
 
-### Special Thankss
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+### Special Thanks  
 
----
+   <p align="left"><a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a></p>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+<p align="left">---|**[`Prabath Kumara`](https://github.com/prabathLK)**</p>
 
 
 ### Commands Description 
