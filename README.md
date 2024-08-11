@@ -20,9 +20,15 @@
 
 ### Special Thanks  
 
-   <p align="left"><a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a></p>   
+<p align="left">•Prabath MD owner.❤️</p>
 
-<p align="left">---|**[`Prabath Kumara`](https://github.com/prabathLK)**</p>
+   <p align="center"><a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a></p> 
+   __
+<p align="left">
+
+ |**[`Prabath Kumara`](https://github.com/prabathLK)**|
+ __
+ </p>
 
 
 ### Commands Description 
