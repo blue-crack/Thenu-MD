@@ -17,6 +17,19 @@
 <p align="left">It is simple whatsapp WA bot..🤗</p>
 <p align="left">This bot made using Baileys..❤️</p>
 
+## SETUP
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+
+2. Get Session ID 
+  
+    
+     <a href='https://pair-web-public.koyeb.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 
 ### Special Thanks  
 
