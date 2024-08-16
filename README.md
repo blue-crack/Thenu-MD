@@ -16,19 +16,20 @@
 <p align="left">Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti..💀</p>
 <p align="left">It is simple whatsapp WA bot..🤗</p>
 <p align="left">This bot made using Baileys..❤️</p>
+<p align="left">♻️Simple Whatsapp Bot ♻️
 
 ## SETUP
 
-1. Fork the repo
+<p align="left">1. Fork the repo
     <br>
-<a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/darkhackersl/Thenu-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
 
 
-2. Get Session ID 
+<p align="left">2. Get Session ID</p>
   
     
-     <a href='https://pair-web-public.koyeb.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+  <p align="left"><a href='https://pair-web-public.koyeb.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a></p>
 
 
 ### Special Thanks  
