@@ -1,8 +1,13 @@
 
 
-const config = require('../settings')
-const fg = require('api-dylux');
-const apkdl = require('../lib/apkdl')
+const config = require('../config')
+const {cmd , commands} = require('../command')
+
+cmd({
+    pattern: "alive",
+    desc: "Check bot online or no.",
+    category: "main",
+    filename: __filename)}
 const { mediafireDl } = require('mfiredlcore-vihangayt')
 const { cmd, commands } = require('../lib/command')
 const { Download } = require("nima-threads-dl-api")
