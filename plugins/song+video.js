@@ -1,6 +1,6 @@
 const config = require('../config')
 const {cmd , commands} = require('../command')
-const fg = requier('api-dylux')
+const fg = require('api-dylux')
 const yts = require('yts-search')
 cmd({
     pattern: "song",
@@ -22,7 +22,7 @@ let desc = '
   description: ${data.description}
   time: ${data.timestamp}
   ago: ${data.ago}
-  views: ${dat.views}
+  views: ${data.views}
     
  🔔_song  downloading.._
   > © Made by Thenula Panapiti.
@@ -44,5 +44,4 @@ let desc = '
 }catch(e){
   console.log(e)
   reply('${e}')
-}
 }}
