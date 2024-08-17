@@ -15,7 +15,7 @@ const search = await yts (q)
 const data = search.videos[0];
 const url = data.url
 
-let desc = ' 
+let desc = `
   *♻️ 🎶Thenu-MD Song Downloader🎵 ♻️*
   
   title: ${data.title}
@@ -26,7 +26,7 @@ let desc = '
     
  🔔_song  downloading.._
   > © Made by Thenula Panapiti.
-  '
+  `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
  
  //download audio
