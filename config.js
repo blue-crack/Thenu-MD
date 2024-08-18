@@ -7,6 +7,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
 ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/e1805cc111530fe514728.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "*Hello!* . This is Thenu-MD Whatsapp WA BOT.../n/n I'm alive now.. ..  >Testing Bot",
+ALIVE_MSG: process.env.ALIVE_MSG || "*Hello!* . This is Thenu-MD Whatsapp WA BOT...I'm alive now.. ..♻️😏",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 
 };
