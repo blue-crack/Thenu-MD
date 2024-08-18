@@ -26,6 +26,7 @@
     "yt-search": "2.11.1",
     "api-dylux": "1.8.5",
     "tkaraoke-lyrics-searcher": "1.0.5",
-    "hxz-api": "^1.0.1"
+    "hxz-api": "^1.0.1",
+    "@vncsprd/soundcloud-downloader": "1.2.2"
   }
 }
