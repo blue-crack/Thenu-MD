@@ -10,7 +10,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply(">🔗Please give me a URL or TITLE🔗*")
+if(!q) return reply("> 🔗Please give me a URL or TITLE🔗*")
 const search = await yts (q) 
 const data = search.videos[0];
 const url = data.url
@@ -25,7 +25,7 @@ let desc = `
   Views: ${data.views}
     
  🔔_song  downloading.._
->© Made by Thenula Panapiti.
+> © Made by Thenula Panapiti.
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
  
@@ -37,7 +37,7 @@ let desc = `
  //send audio+ document message 
 
  await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
- await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:">Thenula Panapiti"},{quoted:mek})
+ await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"> Thenula Panapiti"},{quoted:mek})
 
  
 
@@ -73,7 +73,7 @@ let desc = `
   Views: ${data.views}
     
  💻_video downloading.._
->© Made by Thenula Panapiti.
+> © Made by Thenula Panapiti.
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
  
@@ -85,7 +85,7 @@ let desc = `
  //send video+ document message 
 
  await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4",caption:">Thenula Panapiti💕"},{quoted:mek})
- await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:">Thenula Panapiti💕"},{quoted:mek})
+ await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"> Thenula Panapiti💕"},{quoted:mek})
 
  
 
