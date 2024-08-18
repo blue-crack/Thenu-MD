@@ -18,13 +18,14 @@ const url = data.url
 let desc = `
   *♻️ 🎶Thenu-MD Song Downloader🎵 ♻️*
   
-  Title: ${data.title}
-  Description: ${data.description}
-  Time: ${data.timestamp}
-  Ago: ${data.ago}
-  Views: ${data.views}
+  - Title: ${data.title}
+  - Description: ${data.description}
+  - Time: ${data.timestamp}
+  - Ago: ${data.ago}
+  - Views: ${data.views}
     
- 🔔_song  downloading.._
+ *🎵Your song downloading...*
+ 
 > © Made by Thenula Panapiti.
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
@@ -66,13 +67,14 @@ const url = data.url
 let desc = `
   *♻️ 📽️Thenu-MD VIDEO Downloader📽️ ♻️*
   
-  Title: ${data.title}
-  Description: ${data.description}
-  Time: ${data.timestamp}
-  Ago: ${data.ago}
-  Views: ${data.views}
+  - Title: ${data.title}
+  - Description: ${data.description}
+  - Time: ${data.timestamp}
+  - Ago: ${data.ago}
+  - Views: ${data.views}
     
- 💻_video downloading.._
+ *🎬 Your video downloading....*
+ 
 > © Made by Thenula Panapiti.
   `
  await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek})
