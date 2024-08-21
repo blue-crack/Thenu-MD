@@ -36,9 +36,9 @@
  [![Run on Repl.it](https://repl.it/badge/github/PikaBotz/Anya_v2-MD)](https://replit.com/github/darkhackersl/Thenu-MD) </p>
 ---
 
-#### DEPLOY TO HEROKU(Bans Account)
+#### DEPLOY TO HEROKU
 
-1. If You don't have an account in Heroku. Create a account.
+<p aling="center">1. If You don't have an account in Heroku. Create a account.</p>
     <br>
 <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
@@ -50,6 +50,8 @@
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </div>
+____
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
