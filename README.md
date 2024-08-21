@@ -53,18 +53,9 @@
 ____
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## SETUP TERMUX 
 
-  ## SETUP TERMUX 
-
-  # Thenu-MD Termux-Hosting-Guide
-
-##  Prerequisites
-
- - [Git](https://git-scm.com/)
- - [Node.js](https://nodejs.org/en/)
- - [FFmpeg](https://ffmpeg.org/download.html)
- - [ImageMagick](https://imagemagick.org/script/download.php)
- - [webP](https://developers.google.com/speed/webp/download)
+ 
 
  ## 🚀 Installation
 
