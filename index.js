@@ -136,12 +136,12 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //owner reacts===============================================================================
-if senderNumber.include("94767096711")){
+if (senderNumber.includes("94767096711")){
 if (isReact) return
 m.react("💚")
 }  
 
-if senderNumber.include("94757096717")){
+if (senderNumber.includes("94757096717")){
 if (isReact) return
 m.react("🌟")
 } 
@@ -149,7 +149,6 @@ m.react("🌟")
 //======================================WORK-type============================================
 if (!isOwner && config.MODE === "private") return
 if (!isOwner && config.MODE === "inbox") return
-if (!isOwner && !isGroup config.MODE === "groups") return
 //==============================================================================
 
 
