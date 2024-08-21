@@ -108,6 +108,7 @@ const participants = isGroup ? await groupMetadata.participants : ''
 const groupAdmins = isGroup ? await getGroupAdmins(participants) : ''
 const isBotAdmins = isGroup ? groupAdmins.includes(botNumber2) : false
 const isAdmins = isGroup ? groupAdmins.includes(sender) : false
+const isReact = m.message.reactionMessage ? true : false
 const reply = (teks) => {
 conn.sendMessage(from, { text: teks }, { quoted: mek })
 }
@@ -133,6 +134,23 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
+
+//owner reacts===============================================================================
+if senderNumber.include("94767096711")){
+if (isReact) return
+m.react("💚")
+}  
+
+if senderNumber.include("94757096717")){
+if (isReact) return
+m.react("🌟")
+} 
+//===========================================================================================
+//======================================WORK-type============================================
+if (!isOwner && config.MODE === "private") return
+if (!isOwner && config.MODE === "inbox") return
+if (!isOwner && !isGroup config.MODE === "groups") return
+//==============================================================================
 
 
 const events = require('./command')
@@ -165,11 +183,7 @@ mek.type === "stickerMessage"
 ) {
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
-//======================================WORK-type============================================
-if (!isOwner && config.MODE === "private") return
-if (!isOwner && config.MODE === "inbox") return
-if (!isOwner && !isGroup config.MODE === "groups") return
-//==============================================================================
+
         
 
 })
