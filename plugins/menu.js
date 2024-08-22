@@ -47,7 +47,7 @@ let menu = {
 
  POWERD BY Thenula_Panapiti🔰
  `
-await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/a7ccc1537d4760ce7a0cc.jpg"},{quoted:mek})
 
   }catch(e){
 console.log(e)
