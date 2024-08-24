@@ -54,7 +54,7 @@ ${menu.convert}
 
 ${menu.search}
 
-*FUN COMMANDS*
+*💕FUN COMMANDS*
 
 ${menu.fun}
 
