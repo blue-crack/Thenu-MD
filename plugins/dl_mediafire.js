@@ -6,7 +6,7 @@ var dlsize = 1000 // 1000mb
 cmd({
             pattern: "mediafire",
             desc: "Downloads zip from Mediafire.",
-            category: "downloader",
+            category: "download",
             filename: __filename,
             use: '<url of mediafire>',
         }, 
