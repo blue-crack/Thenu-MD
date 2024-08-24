@@ -2,7 +2,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://telegra.ph/file/a7ccc1537d4760ce7a0cc.jpg"  width="500" height="500">
+<img src = "https://i.ibb.co/hy0CnW9/Thenu-md.png"  width="500" height="500">
 </img>
 <p align="center">  
   
