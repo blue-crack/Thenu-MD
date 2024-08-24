@@ -20,34 +20,43 @@ let menu = {
 
   for (let i = 0; i < commands.length; i++) { if (commands[i].pattern && !commands[i].dontAddCommandList) { menu[commands[i].category] += `.${commands[i].pattern}\n`; } }
 
- let madeMenu = `💖 *Hello ${pushname}*
- > *DOWNLOAD COMMANDS📡*
+ let madeMenu = `🪐  ●●《Thenu-MD》●● ✨
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+*《《Hello ${pushname}》》*
+
+|● *This is Thenu-MD Wa Bot.*. ...👾
+<□□□□□□□□□□□□□□□□□□□□□
+
+🥊● Download Command
+
+|${menu.download}|
+
+*🎟️■Main Commands*
+
+| ${menu.main} |
+|              |
+
+*💎●Group Commands*
+
+|${menu.group}|
+
+*⚙️Owner Commands*
+
+ |${menu.owner}|
+
+*🛡️Convert  Commands*
+
+|${menu.convert}|
+
+*💣Search Commands*
+
+|${menu.search}|
+
+>  Powerd By Thenula_Panapiti...🔰 
+   `
  
- ${menu.download}
-
- > *MAIN COMMANDS🔰*
-
- ${menu.main}
-
- > *GROUP COMMANDS✴️*
-
- ${menu.group}
-
- > *OWNER COMMANDS💰*
-
- ${menu.owner}
-
- > *CONVERT COMMANDS🚄*
-
- ${menu.convert}
-
- > *Search Commands🔎*
-
- ${menu.search}
-
- POWERD BY Thenula_Panapiti🔰
- `
-await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/a7ccc1537d4760ce7a0cc.jpg"},{quoted:mek})
+await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/a7ccc1537d4760ce7a0cc.jpg"},caption:madeMenu},{quoted:mek})
 
   }catch(e){
 console.log(e)
