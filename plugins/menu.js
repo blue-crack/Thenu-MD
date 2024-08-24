@@ -21,40 +21,39 @@ let menu = {
 
   for (let i = 0; i < commands.length; i++) { if (commands[i].pattern && !commands[i].dontAddCommandList) { menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`; } }
 
- let madeMenu = `🪐  ●●《Thenu-MD》●● ✨
+ let madeMenu = `==🪐  ●●《Thenu-MD》●● ✨==
 
-¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
-*《《Hello ${pushname}》》*
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤====================
+*《《Hello ${pushname} 》》*
 
 |● *This is Thenu-MD Wa Bot.*. ...👾
-<□□□□□□□□□□□□□□□□□□□□□
+<□□□□□□□□□□□□□□□□□□□□□=====================
 
 🥊● Download Command
 
-|${menu.download}|
+${menu.download}
 
 *🎟️■Main Commands*
 
-| ${menu.main} |
-|              |
+ ${menu.main}               
 
 *💎●Group Commands*
 
-|${menu.group}|
+${menu.group}
 
 *⚙️Owner Commands*
 
- |${menu.owner}|
+${menu.owner}
 
 *🛡️Convert  Commands*
 
-|${menu.convert}|
+${menu.convert}
 
 *💣Search Commands*
 
-|${menu.search}|
+${menu.search}
 
->  Powerd By Thenula_Panapiti...🔰 
+> Powerd By Thenula_Panapiti...🔰 
    `
  
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
