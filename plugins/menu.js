@@ -1,4 +1,4 @@
-const config = require('../config')
+const {readEnv} = require('../lib/database')
 const {cmd , commands} = require('../command')
 
 cmd({
@@ -9,6 +9,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
+const config = await readEnv();
 let menu = {
  main: '',
  download: '',
@@ -18,7 +19,7 @@ let menu = {
  search: ''
 };
 
-  for (let i = 0; i < commands.length; i++) { if (commands[i].pattern && !commands[i].dontAddCommandList) { menu[commands[i].category] += `.${commands[i].pattern}\n`; } }
+  for (let i = 0; i < commands.length; i++) { if (commands[i].pattern && !commands[i].dontAddCommandList) { menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`; } }
 
  let madeMenu = `🪐  ●●《Thenu-MD》●● ✨
 
@@ -56,7 +57,7 @@ let menu = {
 >  Powerd By Thenula_Panapiti...🔰 
    `
  
-await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/a7ccc1537d4760ce7a0cc.jpg"},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
   }catch(e){
 console.log(e)
