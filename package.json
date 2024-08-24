@@ -78,6 +78,7 @@
         "xfarr-api": "^1.0.3",
         "yargs": "^17.6.0",
         "youtube-yts": "^2.0.0",
-        "youtubedl-core": "npm:@distube/ytdl-core"
+        "youtubedl-core": "npm:@distube/ytdl-core",
+        "mongoose": "8.5.4"
   }
 }
