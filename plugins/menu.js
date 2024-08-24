@@ -16,7 +16,8 @@ let menu = {
  group: '',
  owner: '',
  convert: '',
- search: ''
+ search: '',
+ fun: '',
 };
 
   for (let i = 0; i < commands.length; i++) { if (commands[i].pattern && !commands[i].dontAddCommandList) { menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`; } }
@@ -52,6 +53,10 @@ ${menu.convert}
 *💣Search Commands*
 
 ${menu.search}
+
+*FUN COMMANDS*
+
+${menu.fun}
 
 > Powerd By Thenula_Panapiti...🔰 
    `
