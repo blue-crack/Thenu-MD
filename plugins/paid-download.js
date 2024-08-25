@@ -26,7 +26,7 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
         if (!q && !q.startsWith("https://")) return reply("give me fb url")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/fdown?url=${q}`)
-        reply("*••《《Thenu-MD-FB-DL》》••📡.*\n\n*🔭Downloading*...\n\n> ☆Thenu_MD")
+        reply("*Hi.. ${pushname}*\n\n*••《《Thenu-MD-FB-DL》》••📡.*\n\n*🔭Downloading*...\n\n> ☆Thenu_MD")
         //send video (hd,sd)
         await conn.sendMessage(from, { video: { url: data.data.hd }, mimetype: "video/mp4", caption: `- QUALITY HD\n\n> ${cap}` }, { quoted: mek })
         await conn.sendMessage(from, { video: { url: data.data.sd }, mimetype: "video/mp4", caption: `- QUALITY SD \n\n> ${cap}` }, { quoted: mek })  
