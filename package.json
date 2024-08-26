@@ -1,7 +1,7 @@
 {
   "name": "Thenu-MD",
   "version": "1.0.0",
-  "description": "A Thenu-MD WhatsApp bot created using Node.js",
+  "description": "A Thenu-MD WhatsApp bot created using Node.js📡",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Thenu-MD",
