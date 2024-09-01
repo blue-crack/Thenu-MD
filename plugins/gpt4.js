@@ -10,7 +10,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let data = await fetchJson(`https://api.vihangayt.com/ai/gpt4-v2?q=${q}`)
+let data = await fetchJson(`https://api.guruapi.tech/ai/gpt4?q=${q}`)
 return reply(`${data.data}`)
  }catch(e){
   console.log(e)
