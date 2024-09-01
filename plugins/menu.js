@@ -15,6 +15,7 @@ let menu = {
  download: '',
  group: '',
  owner: '',
+ ai: '',
  convert: '',
  search: '',
  fun: '',
@@ -45,6 +46,10 @@ ${menu.group}
 *⚙️Owner Commands*
 
 ${menu.owner}
+
+*🤖AI MENU*
+
+${menu.ai}
 
 *🛡️Convert  Commands*
 
