@@ -13,10 +13,10 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
 # Thenu-MD ❤️
-<p align="left">Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti..💀</p>
-<p align="left">It is simple whatsapp WA bot..🤗</p>
-<p align="left">This bot made using Baileys..❤️</p>
-<p align="left">♻️Simple Whatsapp Bot ♻️
+<p align="left">•Thenu MD is a Simple Multidevice Whatsapp bot created By Thenula Panapiti..💀</p>
+<p align="left">•It is simple whatsapp WA bot..🤗</p>
+<p align="left">•This bot made using Baileys..❤️</p>
+<p align="left">•♻️Simple Whatsapp Bot ♻️
 
 ## SETUP
 
