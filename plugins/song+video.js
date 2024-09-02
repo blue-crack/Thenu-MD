@@ -17,6 +17,7 @@ const url = data.url
 
 let desc = `
   *♻️ 🎶Thenu-MD Song Downloader🎵 ♻️*
+        ↺ |◁   II   ▷|   ♡
   
   - Title: ${data.title}
   - Description: ${data.description}
@@ -38,7 +39,7 @@ let desc = `
  //send audio+ document message 
 
  await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
- await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"> Thenula Panapiti"},{quoted:mek})
+ await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"> Thenula Panapiti\n↺ |◁   II   ▷|   ♡"},{quoted:mek})
 
  
 
