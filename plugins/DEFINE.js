@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> ❯❯ THENU-ᴍᴅ ᴡᴀᴛꜱ ᴀᴘᴘ ʙᴏᴛ ➣`;
+> ❯❯ THENU-ᴍᴅ ᴡᴀᴛꜱ ᴀᴘᴘʙᴏᴛ ➣`;
 
                                  return reply(wordInfo);
                              } catch (e) {
